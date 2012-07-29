@@ -1,6 +1,5 @@
 {
     "name": "node-paypal-api-nv",
-    "preferGlobal": "false",
     "version": "0.1.0",
     "author": "David Pettifer <david.pettifer@dizzy.co.uk>",
     "description": "interface for PayPal's name-value API",
