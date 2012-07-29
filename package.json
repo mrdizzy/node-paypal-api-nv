@@ -10,7 +10,7 @@
         "url": "https://github.com/mrdizzy/node-paypal-api-nv.git"
     },
     "keywords": [
-        "paypal",
+        "paypal"
     ],
     "devDependencies": {
         "vows": "0.6.x",
